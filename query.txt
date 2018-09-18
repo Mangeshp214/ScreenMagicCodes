@@ -1,0 +1,12 @@
+1)
+select Name from Players where Team_name = "Mumbai Indians";
+2)
+select count(*) from Players;
+3)
+select MAX(score) from record_batsman;
+4)
+select MAX(score) from record_bowler;
+5)
+select avg(*) from Players where Team_name = "Mumbai Indians";
+6)
+select avg(*) from Players where Team_name = "Mumbai Indians";
